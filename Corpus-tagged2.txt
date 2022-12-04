@@ -1,0 +1,34 @@
+<doc id="27315" title="Tristana" nonfiltered="2700" processed="2679" dbindex="12753">
+
+uno	uno	PI	PI
+siente	siente	VM	VM
+la	la	DA	DA
+felicidad	felicidad	NC	NC
+de	de	SP	SP
+la	la	DA	DA
+juventud	juventud	NC	NC
+en 	en 	SP	SP
+la	la	DA	DA
+edad	edad	NC	NC
+madura	madura	AQ	AQ
+
+alguien	alguien	PI	PI
+madura	madura	VM	VM
+con	con	SP	SP
+la	la	DA	DA
+edad	edad	NC	NC
+
+la	la	DA	DA
+juventud	juventud	NC	NC
+siente	siente	VM	VM
+felicidad	felicidad	NC	NC
+excitante	excitante	AQ	AQ
+
+el	el	DA	DA
+dato	dato	NC	NC
+pesimista	pesimista	AQ	AQ
+sobre	sobre	SP	SP
+la	la	DA	DA
+felicidad	felicidad	NC	NC
+
+</doc>
